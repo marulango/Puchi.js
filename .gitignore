@@ -1,0 +1,5 @@
+bower_components
+.scss
+.DS_store
+logs
+node_modules

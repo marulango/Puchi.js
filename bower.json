@@ -1,0 +1,24 @@
+{
+  "name": "Puchi.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bleedingxedge/Puchi.js",
+  "authors": [
+    "bleedingxedge <maru@bxe.me>"
+  ],
+  "description": "Kind of a glitchSort port for p5.js",
+  "main": "puchi.js",
+  "keywords": [
+    "p5.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "p5js": "~0.4.4"
+  }
+}
